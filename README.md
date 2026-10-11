@@ -21,7 +21,9 @@ I am a software engineer focused on deepening my expertise in modern web framewo
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" /></a>&nbsp;&nbsp;
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" height="40" /></a>&nbsp;&nbsp;
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://openai.com/" target="_blank"><img src="https://cdn.simpleicons.org/openai/FFFFFF" alt="OpenAI" height="40" /></a>
+  <a href="https://openai.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" alt="OpenAI" height="40" />
+</a>
 </p>
 
 #### 🌐 Frontend Web Development
@@ -35,7 +37,9 @@ I am a software engineer focused on deepening my expertise in modern web framewo
 <p>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40" /></a>&nbsp;&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code" height="40" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" />
+</a>
 </p>
 
 ---
